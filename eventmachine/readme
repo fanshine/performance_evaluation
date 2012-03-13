@@ -1,0 +1,11 @@
+Install
+=======
+```
+gem install eventmachine eventmachine_httpserver em-mongo
+```
+
+Run
+===
+```
+ruby em.rb
+```
